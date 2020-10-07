@@ -1,0 +1,22 @@
+{
+  "name": "grmb",
+  "version": "0.0.1",
+  "description": "Git ReMove Branch without master or main (GRMB)",
+  "bin": {
+    "grmb": "./grmb.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsh2001/grmb.git"
+  },
+  "keywords": [
+    "git",
+    "branch"
+  ],
+  "author": "hsh2001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsh2001/grmb/issues"
+  },
+  "homepage": "https://github.com/hsh2001/grmb#readme"
+}
