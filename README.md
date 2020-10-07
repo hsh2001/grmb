@@ -1,6 +1,6 @@
 # grmb
 
-Git RMove Branch (without `master`)
+Git ReMove Branch (without `master`)
 
 ## just do it!
 
