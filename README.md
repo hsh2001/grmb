@@ -1,2 +1,2 @@
 # grmb
-Git RMove Branch
+Git RMove Branch (without `master`)
